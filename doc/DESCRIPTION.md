@@ -1,9 +1,13 @@
-Some long and extensive description of what the app is and does, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Locomotive is an open source platform to create, publish and edit sites (CMS). It is designed to save time and help you focus on what matters: front-end technology, standard development process and a very low learning curve for your clients.
 
 ### Features
 
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco ;
-- Laboris nisi ut aliquip ex ea commodo consequat ;
-- Duis aute irure dolor in reprehenderit in voluptate ;
-- Velit esse cillum dolore eu fugiat nulla pariatur ;
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa."
+
+   Multi-sites natively supported
+   Uses Liquid, a simple and clean templating language
+   Easy to add custom sections, content types, no SQL needed
+   Beautiful and intuitive editing interface
+   Can fully localize all the content and pages
+   Embed a Restful API to manage every site
+   Develop and preview sites locally with your favorite tools (Wagon)
+   Support for Webpack, SASS, HAML and Coffee Script (Wagon)

@@ -1,5 +1,5 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/locomotivecms/engine/archive/refs/tags/v4.1.1.tar.gz
+SOURCE_SUM=A0F1F82B11497E977537886FD8586D77E2090E8C6B172F6E0270085DF2C73A6B
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
